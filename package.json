@@ -1,0 +1,14 @@
+{
+  "name": "bsv-wallet",
+  "version": "1.0.0",
+  "description": "Bsv wallet building",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gowtham Selvam",
+  "license": "ISC",
+  "dependencies": {
+    "bsv": "2.0.10"
+  }
+}
